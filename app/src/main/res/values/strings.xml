@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather_fragment_label">Weathers</string>
+    <string name="text_avg_temperature_in_c">Average temperature in %s C</string>
+    <string name="text_avg_temperature_in_f">Average temperature %s F</string>
+    <string name="text_title_weather">Weather</string>
+    <string name="error_message_general">Can\'t fetch any data for the country</string>
+    <string name="error_message_wrong">Something Wrong Happened!</string>
+    <string name="text_temp_c">%s °C</string>
+    <string name="text_temp_f">%s ℉</string>
+    <string name="search_by_country_name">Search by country name</string>
+</resources>
